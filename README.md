@@ -6,8 +6,8 @@ The framework is the Training and Outreach activities of Hub Matter-HMC at HZB
 
 This project is used for material distribution and review.
 Currently the material consist of:
-* slides
-* jupyter notebooks
+* [slides] (https://nubes.helmholtz-berlin.de/apps/files/?dir=/HMC_Hub_Matter/Training_metadata&fileid=501343591)
+* [jupyter notebooks](https://gitlab.helmholtz-berlin.de/a2395/training_material1/-/blob/master/example_modLC_part1.ipynb)
 
 The original files are hosted in this project and in Nubes:
 
