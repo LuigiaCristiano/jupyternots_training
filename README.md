@@ -5,6 +5,9 @@ Collection of training material and tools used for the development of a Training
 The framework is the Training and Outreach activities of Hub Matter-HMC at HZB
 
 This project is used for material distribution and review.
+Currently the material consist of:
+* slides
+* jupyter notebooks
 
 The original files are hosted in this project and in Nubes:
 
