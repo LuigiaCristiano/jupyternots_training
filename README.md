@@ -1,4 +1,5 @@
 # Training Material for RDM at Hub Matter- HMC-HZB
 
-Material collection for the development of a Training offer in RDM 
-in the framework of the Hub Matter Training and Outreach activities.
+Collection of training material and tools used for the development of a Training offer in RDM
+
+The framework is the Training and Outreach activities of Hub Matter-HMC at HZB
