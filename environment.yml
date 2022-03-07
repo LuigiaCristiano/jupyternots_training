@@ -1,8 +1,0 @@
-name: jupyterh5web_test
-channels:
-  - defaults
-dependencies:
-    - h5grove==0.0.14
-    - h5py==3.1.0
-    - hdf5plugin==3.2.0
-    - numpy==1.19.5
