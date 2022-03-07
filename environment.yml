@@ -102,4 +102,3 @@ dependencies:
     - webencodings==0.5.1
     - websocket-client==1.2.3
     - zipp==3.6.0
-prefix: /home/luigia/anaconda3/envs/jupyterh5web_test
