@@ -14,10 +14,22 @@ SPDX-License-Identifier: CC-BY-4.0
 
 ## Getting The setup
 
+***Installing the repo***
+
 ~~~
 $ git clone https://gitlab.helmholtz-berlin.de/a2395/training_material1.git
 $ cd training_material1
 $ bash run.sh && exit
+~~~
+
+***Uninstalling the repo***
+
+First command removes the kernel and `rm` removes the folder, incl. the build env.
+
+~~~
+$ jupyter kernelspec remove run-training
+$ cd ..
+$ rm -rf training_material1
 ~~~
 
 
