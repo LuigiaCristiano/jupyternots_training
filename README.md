@@ -1,10 +1,38 @@
-# Training Material for RDM at Hub Matter- HMC-HZB
+<!--
+SPDX-FileCopyrightText: 2022 Thomas Foerster <thomas.foerster@hzdr.de>
 
-Collection of training material and tools used for the development of a Training offer in RDM
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
 
-The framework is the Training and Outreach activities of Hub Matter-HMC at HZB
+# RDM Trainings
 
-This project is used for material distribution and review.
-Currently the material consist of:
-* [slides](https://nubes.helmholtz-berlin.de/apps/files/?dir=/HMC_Hub_Matter/Training_metadata&fileid=501343591)
-* [jupyter notebooks](https://gitlab.helmholtz-berlin.de/a2395/training_material1/-/blob/master/notebooks/example_modLC_part1.ipynb)
+# Background
+
+...
+
+# Use the material
+
+# Project Files 
+
+In terms of the training the following files need not to be tinkered with 
+
+`pyproject.toml`
+: poetry package configure
+
+`poetry.toml`
+: poetry additional settings
+
+`poetry.lock`
+: poetry internal config file
+
+`*.license`
+: license information
+
+`LICENSES/`
+: License folder
+
+
+# Licensing
+...
+
+

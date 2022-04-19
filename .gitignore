@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2022 Thomas Foerster <thomas.foerster@hzdr.de>
+#
+# SPDX-License-Identifier: MIT
+
+# temporary files
+*.sw?
+
+
+# Jupyther Files
+*.ipynb*
+__pycache__/
+

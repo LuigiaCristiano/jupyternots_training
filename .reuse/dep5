@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: RDM Training Material
+Upstream-Contact: Luigia Cristiano <luigia.cristiano@helmholtz-berlin.de>
+Source: 
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
