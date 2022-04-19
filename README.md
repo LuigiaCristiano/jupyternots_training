@@ -17,7 +17,7 @@ SPDX-License-Identifier: CC-BY-4.0
 ~~~
 $ git clone git@gitlab.helmholtz-berlin.de:a2395/training_material1.git
 $ cd training_material1
-$ bash run.sh
+$ bash run.sh && exit
 ~~~
 
 
