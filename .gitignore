@@ -7,7 +7,7 @@
 
 
 # Jupyther Files
-*.ipynb*
+.ipynb_checkpoints/
 __pycache__/
 
 # h5 datasets

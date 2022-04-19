@@ -1,7 +1,7 @@
 <!--
 SPDX-FileCopyrightText: 2022 Thomas Foerster <thomas.foerster@hzdr.de>
 
-SPDX-License-Identifier: CC-BY-SA-4.0
+SPDX-License-Identifier: CC-BY-4.0
 -->
 
 # RDM Trainings
