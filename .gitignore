@@ -10,3 +10,7 @@
 *.ipynb*
 __pycache__/
 
+# h5 datasets
+*.h5
+*.nx
+
