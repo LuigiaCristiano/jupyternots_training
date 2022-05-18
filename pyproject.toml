@@ -14,6 +14,7 @@ h5py = "^3.6.0"
 numpy = "^1.22.3"
 jupyterlab-h5web = "^3.0.0"
 ipykernel = "^6.13.0"
+#jupyterlab-h5web==1.3.0
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
