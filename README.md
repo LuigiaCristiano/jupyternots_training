@@ -11,4 +11,5 @@ Currently the material consist of:
 * [design templates](https://gitlab.helmholtz-berlin.de/a2395/training_material1/-/edit/master/trainer)
 
 Material is organized in expertise levels: Beginners, Intermediate, Experts/Trainers
-Jupyter notebooks are compatible with Jupyterlab3, see requirements.txt /environment.yml for details
+
+The Jupyter notebooks are compatible with Jupyterlab3, see requirements.txt /environment.yml for details
