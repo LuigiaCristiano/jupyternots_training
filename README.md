@@ -13,3 +13,6 @@ Currently the material consist of:
 Material is organized in expertise levels: Beginners, Intermediate, Experts/Trainers
 
 The Jupyter notebooks are compatible with Jupyterlab3, see requirements.txt /environment.yml for details
+
+
+!! the repository is in progress, branch 39 is final for intermediate level training, please start an issue for questions and clarifications !!
