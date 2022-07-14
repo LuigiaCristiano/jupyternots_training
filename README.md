@@ -14,7 +14,7 @@ Material is organized in expertise levels: Beginners, Intermediate, Experts/Trai
 
 The Jupyter notebooks are compatible with Jupyterlab3, see requirements.txt /environment.yml for details.
 
-Until end of June'22 we will be  working to provide installation instructions with conda, venv, poetry.
+End of Sept'22  the installation instructions based on  `conda`, `venv`, `poetry` will be ready.
 
 
 !! the repository is in progress, branch 39 is final for intermediate level training, 
