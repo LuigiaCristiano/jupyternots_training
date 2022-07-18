@@ -1,5 +1,6 @@
 # Training Material for Research Data Management<bc>
-# at Hub Matter- [Helmholtz Metadata Collaboration (HMC)](https://helmholtz-metadaten.de/en/matter/overview)-Helmholtz Zentrum Berlin (HZB)
+# at [Hub Matter-Helmholtz Metadata Collaboration (HMC)](https://helmholtz-metadaten.de/en/matter/overview)
+## and Helmholtz Zentrum Berlin (HZB)
 
 Collection of training material and tools used for the development of a Training offer in RDM
 
