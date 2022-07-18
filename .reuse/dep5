@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: RDM Training Material
 Upstream-Contact: Luigia Cristiano <luigia.cristiano@gmail.com>
-Source: 
+Source: https://gitlab.helmholtz-berlin.de/a2395/training_material1/
 Comment: This is a machine-readable copyrights coverage file.
 
 #Files: intermediate/notebooks/*
