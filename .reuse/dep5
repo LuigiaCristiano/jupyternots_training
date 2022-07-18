@@ -4,13 +4,13 @@ Upstream-Contact: Luigia Cristiano <luigia.cristiano@gmail.com>
 Source: 
 Comment: This is a machine-readable copyrights coverage file.
 
-Files: intermediate/notebooks/*
-Copyright: Copyright 2022 Luigia Cristiano <luigia.cristiano@gmail.com>
-License: GPL-2+
+#Files: intermediate/notebooks/*
+#Copyright: Copyright 2022 Luigia Cristiano <luigia.cristiano@gmail.com>
+#License: GPL-2+
 
-Files: beginner/notebooks/*
-Copyright: Copyright 2022 Luigia Cristiano <luigia.cristiano@gmail.com>
-License: GPL-2+
+#Files: beginner/notebooks/*
+#Copyright: Copyright 2022 Luigia Cristiano <luigia.cristiano@gmail.com>
+#License: GPL-2+
 
 
 Files: intermediate/slides/*
