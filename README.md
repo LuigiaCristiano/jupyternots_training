@@ -24,3 +24,6 @@ with guidelines for creating a python kernel
 
 please start an issue for questions and clarifications !!
 
+The notebook can be run in Jupyterlab (v3 is tested) and Python3.8 is compatible with the packages used in the ipynb files 
+hosted in this repository. 
+
