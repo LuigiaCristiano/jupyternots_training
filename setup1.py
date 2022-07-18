@@ -12,11 +12,11 @@ setup(
     author_email='luigia.cristiano@helmholtz-berlin.de',
     python_requires='!=3.0.*, !=3.1.*, !=3.2.*, <4',
     install_requires=[],
-    %packages=['autostatsq'],
-    %package_dir={'autostatsq': 'src'},
+    %packages=[''],
+    %package_dir={'': 'src'},
     %entry_points={
      %   'console_scripts': [
-      %      'autostatsq = autostatsq.network_control:main',
+      %      ' = :main',
        % ]
     %}
 )
