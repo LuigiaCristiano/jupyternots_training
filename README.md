@@ -1,4 +1,4 @@
-# Training Material for RDM at Hub Matter- HMC-HZB
+# Training Material for Research Data Management at Hub Matter- [Helmholtz Metadata Collaboration (HMC)](https://helmholtz-metadaten.de/en/matter/overview)-Helmholtz Zentrum Berlin (HZB)
 
 Collection of training material and tools used for the development of a Training offer in RDM
 
@@ -21,3 +21,4 @@ End of Sept'22  the installation instructions based on  `conda`, `venv`, `poetry
 with guidelines for creating a python kernel
 
 please start an issue for questions and clarifications !!
+
