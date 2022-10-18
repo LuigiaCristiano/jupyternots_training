@@ -1,10 +1,8 @@
-# Training Material for Research Data Management<bc>
-# at [Hub Matter-Helmholtz Metadata Collaboration (HMC)](https://helmholtz-metadaten.de/en/matter/overview)
-## and Helmholtz Zentrum Berlin (HZB)
+# Training in  Research Data Management<bc>
 
 Collection of training material and tools used for the development of a Training offer in RDM
 
-The framework is the Training and Outreach activities of Hub Matter-HMC at HZB
+
 
 This project is used for material distribution and review.
 Currently the material consist of:
@@ -14,16 +12,12 @@ Currently the material consist of:
 
 Material is organized in expertise levels: Beginners, Intermediate, Experts/Trainers
 
-The Jupyter notebooks are compatible with Jupyterlab3, see requirements.txt /environment.yml for details.
-
-End of Sept'22  the installation instructions based on  `conda`, `venv`, `poetry` will be ready.
+Please visit our Wiki for a better guidance on how to use the Material hosted in this repo
 
 
-!! the repository is in progress, branch 39 is final for intermediate level training, 
+ the repository is in progress, branch 39 is final for intermediate level training, 
 with guidelines for creating a python kernel
 
-please start an issue for questions and clarifications !!
 
-The notebook can be run in Jupyterlab (v3 is tested) and Python3.8 is compatible with the packages used in the ipynb files 
-hosted in this repository. 
+please start an issue for questions and clarifications
 
