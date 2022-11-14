@@ -20,9 +20,9 @@ The notebook can be run in Jupyterlab (v3 is tested) and Python3.8 is compatible
 hosted in this repository. 
 
 ## Setting up the environment to run the Jupyter notebooks
-a. virtualenv
+a. virtualenv <bc> 
  `  sudo apt install python3-virtualenv ` <bc>
-    `virtualenv environmentname` <bc>
+    `virtualenv environmentname`  <bc>
     `source environmentname/bin/activate`  <bc>
     
 b. conda
