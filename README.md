@@ -23,7 +23,9 @@ hosted in this repository.
 a. virtualenv <bc> 
 
  `  sudo apt install python3-virtualenv ` 
+
     `virtualenv environmentname`
+    
     `source environmentname/bin/activate`  
     
     
