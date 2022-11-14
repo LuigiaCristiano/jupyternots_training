@@ -30,5 +30,6 @@ a. virtualenv <bc>
     
     
 b. conda
+
 c. poetry
 
