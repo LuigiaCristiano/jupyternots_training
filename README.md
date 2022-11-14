@@ -16,14 +16,10 @@ Material is organized in expertise levels: Beginners, Intermediate, Experts/Trai
 
 The Jupyter notebooks are compatible with Jupyterlab3, see requirements.txt /environment.yml for details.
 
-End of Sept'22  the installation instructions based on  `conda`, `venv`, `poetry` will be ready.
+The repository is in progress, please start an issue for questions and clarifications.
 
-
-!! the repository is in progress, branch 39 is final for intermediate level training, 
-with guidelines for creating a python kernel
-
-please start an issue for questions and clarifications !!
-
-The notebook can be run in Jupyterlab (v3 is tested) and Python3.8 is compatible with the packages used in the ipynb files 
+The notebook can be run in Jupyterlab (v3 is tested) and Python3.8 is compatible with the packages used in the `ipynb` files 
 hosted in this repository. 
+
+## Setting up the environment to run the Jupyter notebooks
 
