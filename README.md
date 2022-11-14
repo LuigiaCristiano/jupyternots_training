@@ -23,10 +23,9 @@ hosted in this repository.
 a. virtualenv <bc> 
 
  `  sudo apt install python3-virtualenv ` 
-
-    ` virtualenv environmentname `
+` virtualenv environmentname `
     
-    `source environmentname/bin/activate`  
+`source environmentname/bin/activate`  
     
     
 b. conda
