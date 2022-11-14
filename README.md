@@ -1,7 +1,5 @@
-# Training Material for Research Data Management<bc>
-# at [Hub Matter-Helmholtz Metadata Collaboration (HMC)](https://helmholtz-metadaten.de/en/matter/overview)
-## and Helmholtz Zentrum Berlin (HZB)
-
+# Training Material for Research Data Management 
+# 
 Collection of training material and tools used for the development of a Training offer in RDM
 
 The framework is the Training and Outreach activities of Hub Matter-HMC at HZB
@@ -22,4 +20,10 @@ The notebook can be run in Jupyterlab (v3 is tested) and Python3.8 is compatible
 hosted in this repository. 
 
 ## Setting up the environment to run the Jupyter notebooks
+a. virtualenv
+ `  sudo apt install python3-virtualenv `
+    `virtualenv environmentname`
+    `source environmentname/bin/activate`
+b. conda
+c. poetry
 
