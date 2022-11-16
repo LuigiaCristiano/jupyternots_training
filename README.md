@@ -21,13 +21,14 @@ hosted in this repository.
 
 ## Setting up the environment to run the Jupyter notebooks
 a. virtualenv <bc> 
-
+1. install virtualenv
  `  sudo apt install python3-virtualenv ` 
- 
+2. choose a name for your environment
 ` virtualenv environmentname `
-    
+3. start the environment
 `source environmentname/bin/activate`  
-    
+4. install the jupyter notebooks dependencies 
+to customize the environment to be compatible to the hands-on sessions
     
 b. conda
 
